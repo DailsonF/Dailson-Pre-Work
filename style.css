@@ -1,0 +1,63 @@
+<style type="text/css">
+	h1{
+		text-decoration: underline;
+		color: blue;
+	}
+	p1, p2 { 
+		font-style: normal; 
+	}
+</style>	
+
+
+<style type="text/css">
+	p{
+		color: blue;
+		text-decoration: underline;
+		font-size: 15pt;
+	}
+</style>
+
+
+<style type="text/css">
+
+		#div2{
+			background-color: white;
+			position: static;
+		}
+		
+	</style>
+
+
+	<style type="text/css">
+	p{
+		color: blue;
+		text-decoration: underline;
+		font-size: 15pt;
+	}
+</style>
+
+
+<style type="text/css">
+
+		#div1{
+			background-color: blue;
+			position: relative;
+		}
+		
+	</style>
+
+
+	<style type="text/css">
+	form{ 
+		background-color: lightgrey; 
+		padding: 5px;
+		font-style: normal;
+		border-style: solid;
+		font font-weight: 900px;
+	}
+	input[type=button] {
+		color: black;
+		background-color: lightblue;
+		padding: 5px;
+	}
+</style>
